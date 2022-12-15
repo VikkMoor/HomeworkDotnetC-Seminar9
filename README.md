@@ -1,7 +1,7 @@
 # HomeworkDotnetC-Seminar9
 ***Recursion! ; )***
 
-***1st:*** input M, N; output - N...1.
+***1st:*** input N; output - N...1.
 
 ***2nd:*** input M, N; output - sum (M....N).
 
