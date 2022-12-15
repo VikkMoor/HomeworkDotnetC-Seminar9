@@ -1,4 +1,4 @@
-# HomeworkDotnetC-Seminar9
+# HomeworkDotnetC#Seminar9
 ***Recursion! ; )***
 
 ***1st:*** input N; output - N...1.
